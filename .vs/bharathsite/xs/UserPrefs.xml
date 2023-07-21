@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{69EDCE26-64FF-419C-8DD5-E9E31083786C}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.bharathsite PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bharathsite/Models/dbcontext.cs">
+    <Files>
+      <File FileName="bharathsite/Controllers/HomeController.cs" Line="16" Column="33" />
+      <File FileName="bharathsite/Models/ErrorViewModel.cs" Line="10" Column="1" />
+      <File FileName="bharathsite/Views/_ViewStart.cshtml" />
+      <File FileName="bharathsite/Views/Home/Index.cshtml" Line="43" Column="1" />
+      <File FileName="bharathsite/Views/Home/Privacy.cshtml" Line="8" Column="1" />
+      <File FileName="bharathsite/Models/dbcontext.cs" Line="1" Column="1" />
+      <File FileName="bharathsite/Models/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bharathsite" expanded="True">
+            <Node name="bharathsite" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Pomelo.EntityFrameworkCore.MySql" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="dbcontext.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

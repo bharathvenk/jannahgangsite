@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bharathsite", "bharathsite\bharathsite.csproj", "{69EDCE26-64FF-419C-8DD5-E9E31083786C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69EDCE26-64FF-419C-8DD5-E9E31083786C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EDCE26-64FF-419C-8DD5-E9E31083786C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EDCE26-64FF-419C-8DD5-E9E31083786C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EDCE26-64FF-419C-8DD5-E9E31083786C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B4406C-5456-4884-8CEB-E2534E758A2A}
+	EndGlobalSection
+EndGlobal
